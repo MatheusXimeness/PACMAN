@@ -1,5 +1,11 @@
 # PACMAN
 //Trabalho feito no final do primeiro semestre.
+
+
+
+
+
+
 #include <allegro5/allegro.h>
 #include "allegro5/allegro_image.h"
 #include <allegro5/allegro_font.h>
